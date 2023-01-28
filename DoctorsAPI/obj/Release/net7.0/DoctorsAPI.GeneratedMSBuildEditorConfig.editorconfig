@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoctorsAPI
+build_property.RootNamespace = DoctorsAPI
+build_property.ProjectDir = C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw8-s15348-Healthcare\DoctorsAPI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\fipci\Source\Repos\fipciu1996\APDB-cw8-s15348-Healthcare\DoctorsAPI
+build_property._RazorSourceGeneratorDebug = 
